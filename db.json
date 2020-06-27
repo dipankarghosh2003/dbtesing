@@ -20,22 +20,22 @@
     {
       "id": 1,
       "name": "plastic",
-      "icon":"https://ibb.co/ScDjyRy"
+      "icon":"https://i.ibb.co/1MYgQ8Q/whisky.png"
     },
     {
       "id": 2,
       "name": "newspaper",
-      "icon":"https://ibb.co/ScDjyRy"
+      "icon":"https://i.ibb.co/1MYgQ8Q/whisky.png"
     },
     {
       "id": 3,
       "name": "cardboard",
-      "icon":"https://ibb.co/ScDjyRy"
+      "icon":"https://i.ibb.co/1MYgQ8Q/whisky.png"
     },
     {
       "id": 4,
       "name": "beer",
-      "icon":"https://ibb.co/ScDjyRy",
+      "icon":"https://i.ibb.co/1MYgQ8Q/whisky.png",
       "sub-category": [
         {
           "name": "beer",
@@ -46,12 +46,12 @@
     {
       "id": "5",
       "name": "rum-whisky",
-      "icon":"https://ibb.co/ScDjyRy"
+      "icon":"https://i.ibb.co/1MYgQ8Q/whisky.png"
     },
     {
       "id": "6",
       "name": "electronics",
-      "icon":"https://ibb.co/ScDjyRy",
+      "icon":"https://i.ibb.co/1MYgQ8Q/whisky.png",
       "sub-category": [
         {
           "name": "mobile",
@@ -78,32 +78,32 @@
     {
       "id": 7,
       "name": "cardboard",
-      "icon":"https://ibb.co/ScDjyRy"
+      "icon":"https://i.ibb.co/1MYgQ8Q/whisky.png"
     },
     {
       "id": 8,
       "name": "cardboard",
-      "icon":"https://ibb.co/ScDjyRy"
+      "icon":"https://i.ibb.co/1MYgQ8Q/whisky.png"
     },
     {
       "id": 9,
       "name": "cardboard",
-      "icon":"https://ibb.co/ScDjyRy"
+      "icon":"https://i.ibb.co/1MYgQ8Q/whisky.png"
     },
     {
       "id": 10,
       "name": "cardboard",
-      "icon":"https://ibb.co/ScDjyRy"
+      "icon":"https://i.ibb.co/1MYgQ8Q/whisky.png"
     },
     {
       "id": 11,
       "name": "cardboard",
-      "icon":"https://ibb.co/ScDjyRy"
+      "icon":"https://i.ibb.co/NmR48Lh/newspaper.png"
     },
     {
       "id": 12,
       "name": "cardboard",
-      "icon":"https://ibb.co/ScDjyRy"
+      "icon":"https://i.ibb.co/NmR48Lh/newspaper.png"
     }
   ],
   "address": [
