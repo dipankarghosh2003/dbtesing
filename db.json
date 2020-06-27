@@ -19,19 +19,23 @@
   "categories": [
     {
       "id": 1,
-      "name": "plastic"
+      "name": "plastic",
+      "icon":"https://ibb.co/ScDjyRy"
     },
     {
       "id": 2,
-      "name": "newspaper"
+      "name": "newspaper",
+      "icon":"https://ibb.co/ScDjyRy"
     },
     {
       "id": 3,
-      "name": "cardboard"
+      "name": "cardboard",
+      "icon":"https://ibb.co/ScDjyRy"
     },
     {
       "id": 4,
       "name": "beer",
+      "icon":"https://ibb.co/ScDjyRy",
       "sub-category": [
         {
           "name": "beer",
@@ -41,11 +45,13 @@
     },
     {
       "id": "5",
-      "name": "rum-whisky"
+      "name": "rum-whisky",
+      "icon":"https://ibb.co/ScDjyRy"
     },
     {
       "id": "6",
       "name": "electronics",
+      "icon":"https://ibb.co/ScDjyRy",
       "sub-category": [
         {
           "name": "mobile",
@@ -71,27 +77,33 @@
     },
     {
       "id": 7,
-      "name": "cardboard"
+      "name": "cardboard",
+      "icon":"https://ibb.co/ScDjyRy"
     },
     {
       "id": 8,
-      "name": "cardboard"
+      "name": "cardboard",
+      "icon":"https://ibb.co/ScDjyRy"
     },
     {
       "id": 9,
-      "name": "cardboard"
+      "name": "cardboard",
+      "icon":"https://ibb.co/ScDjyRy"
     },
     {
       "id": 10,
-      "name": "cardboard"
+      "name": "cardboard",
+      "icon":"https://ibb.co/ScDjyRy"
     },
     {
       "id": 11,
-      "name": "cardboard"
+      "name": "cardboard",
+      "icon":"https://ibb.co/ScDjyRy"
     },
     {
       "id": 12,
-      "name": "cardboard"
+      "name": "cardboard",
+      "icon":"https://ibb.co/ScDjyRy"
     }
   ],
   "address": [
