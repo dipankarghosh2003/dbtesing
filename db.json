@@ -1,31 +1,128 @@
-
 {
-  "users": [
+  "user": [
     {
-	"id": 21,
-	"name": "Alok",
-	"username": "ahoo",
-	"email": "alok@sahoo.co",
-	"address": {
-		"street": "Kulas Light",
-		"suite": "Apt. 556",
-		"city": "Gwenborough",
-		"zipcode": "92998-3874",
-		"geo": {
-			"lat": "-37.3159",
-			"lng": "81.1496"
-		}
-	},
-	"phone": "1-770-736-8031 x56442",
-	"website": "hildegard.org",
-	"company": {
-		"name": "Romaguera-Crona",
-		"catchPhrase": "Multi-layered client-server neural-net",
-		"bs": "harness real-time e-markets"
-	}
-}
+      "id": 1,
+      "name": "xyz",
+      "email": "xyz@gmail.com",
+      "mobilenumber": "999999999",
+      "refcode": "abc"
+    },
+    {
+      "id": 2,
+      "name": "xyz",
+      "email": "xyz@gmail.com",
+      "mobilenumber": "0123456789",
+      "refcode": "abc"
+    }
+    
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "categories": [
+    {
+      "id": 1,
+      "name": "plastic"
+    },
+    {
+      "id": 2,
+      "name": "newspaper"
+    },
+    {
+      "id": 3,
+      "name": "cardboard"
+    },
+    {
+      "id": 4,
+      "name": "beer",
+      "sub-category": [
+        {
+          "name": "beer",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "rum-whisky"
+    },
+    {
+      "id": "6",
+      "name": "electronics",
+      "sub-category": [
+        {
+          "name": "mobile",
+          "quantity": 1
+        },
+        {
+          "name": "battery",
+          "quantity": 0
+        },
+        {
+          "name": "printer",
+          "quantity": 2
+        },
+        {
+          "name": "remote",
+          "quantity": 0
+        },
+        {
+          "name": "calculator",
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "cardboard"
+    },
+    {
+      "id": 8,
+      "name": "cardboard"
+    },
+    {
+      "id": 9,
+      "name": "cardboard"
+    },
+    {
+      "id": 10,
+      "name": "cardboard"
+    },
+    {
+      "id": 11,
+      "name": "cardboard"
+    },
+    {
+      "id": 12,
+      "name": "cardboard"
+    }
+  ],
+  "address": [
+    {
+      "id": 1,
+      "area": "baner",
+      "pickup-time": ""
+    },
+    {
+      "id": 2,
+      "area": "Kothrud",
+      "pickup-time": ""
+    }
+  ],
+  "time": [
+    "9.00-10.00",
+    "10.00-11.00",
+    "11.00-12.00",
+    "12.00-1.00",
+    "1.00-2.00",
+    "2.00-3.00",
+    "3.00-4.00",
+    "4.00-5.00",
+    "5.00-6.00"
+  ],
+  "order": [
+    {
+      "id": 1,
+      "category": "",
+      "sub-categary": "",
+      "quantity": ""
+    }
+  ]
 }
