@@ -20,17 +20,83 @@
     {
       "id": 1,
       "name": "plastic",
-      "icon":"https://i.ibb.co/1MYgQ8Q/whisky.png"
+      "icon":"https://i.ibb.co/1MYgQ8Q/whisky.png",
+      "sub-category": [
+        {
+          "name": "Bottle",
+          "quantity": 1
+        },
+        {
+          "name": "Utensils",
+          "quantity": 0
+        },
+        {
+          "name": "Box",
+          "quantity": 2
+        },
+        {
+          "name": "remote",
+          "quantity": 0
+        },
+        {
+          "name": "calculator",
+          "quantity": 3
+        }
+      ]
     },
     {
       "id": 2,
-      "name": "newspaper",
-      "icon":"https://i.ibb.co/1MYgQ8Q/whisky.png"
+      "name": "Paper",
+      "icon":"https://i.ibb.co/1MYgQ8Q/whisky.png",
+      "sub-category": [
+        {
+          "name": "Newspaper",
+          "quantity": 1
+        },
+        {
+          "name": "Old Books",
+          "quantity": 0
+        },
+        {
+          "name": "NoteCopy",
+          "quantity": 2
+        },
+        {
+          "name": "CardBoard",
+          "quantity": 0
+        },
+        {
+          "name": "calculator",
+          "quantity": 3
+        }
+      ]
     },
     {
       "id": 3,
       "name": "cardboard",
-      "icon":"https://i.ibb.co/1MYgQ8Q/whisky.png"
+      "icon":"https://i.ibb.co/1MYgQ8Q/whisky.png",
+      "sub-category": [
+        {
+          "name": "Bottle",
+          "quantity": 1
+        },
+        {
+          "name": "Utensils",
+          "quantity": 0
+        },
+        {
+          "name": "Box",
+          "quantity": 2
+        },
+        {
+          "name": "remote",
+          "quantity": 0
+        },
+        {
+          "name": "calculator",
+          "quantity": 3
+        }
+      ]
     },
     {
       "id": 4,
@@ -46,7 +112,29 @@
     {
       "id": "5",
       "name": "rum-whisky",
-      "icon":"https://i.ibb.co/1MYgQ8Q/whisky.png"
+      "icon":"https://i.ibb.co/1MYgQ8Q/whisky.png",
+      "sub-category": [
+        {
+          "name": "Bottle",
+          "quantity": 1
+        },
+        {
+          "name": "Utensils",
+          "quantity": 0
+        },
+        {
+          "name": "Box",
+          "quantity": 2
+        },
+        {
+          "name": "remote",
+          "quantity": 0
+        },
+        {
+          "name": "calculator",
+          "quantity": 3
+        }
+      ]
     },
     {
       "id": "6",
